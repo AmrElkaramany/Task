@@ -1,6 +1,4 @@
-# First app using React + Vite
 
-## Route_Frontend_Tasks-C43
 
 
 # Topics
